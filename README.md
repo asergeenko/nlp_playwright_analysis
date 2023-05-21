@@ -1,5 +1,5 @@
 # Playwright Analysis using NLP
-This is an approach to analyse theatre playwrights using simple NLP techniques like word embedings.
+This is an approach to analyse theatre playwrights using simple NLP techniques like word embeddings.
 The motivation is to get some insights to the director and actors from the character text itself without any additional knowledge. That's why we don't use LLMs at this stage, we are trying to keep senses and author text clean and clear.
 
 ## Contents
